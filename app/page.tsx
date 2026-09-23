@@ -98,7 +98,7 @@ export default function Home() {
 
     <section className="gallery section" id="galeria" aria-labelledby="gallery-title"><div className="wrap">
       <div className="heading"><div><span className="eyebrow">UN POCO DE NOSOTROS</span><h2 id="gallery-title">Belleza que se <em>siente.</em></h2></div><p>Un lugar donde cada detalle acompaña tu experiencia.</p></div>
-      <div className="gallery-grid"><figure className="gallery-large"><img src="/images/salon-portrait.webp" alt="Retrato de una clienta en el salón" loading="lazy" /><figcaption>01 <span>La experiencia</span></figcaption></figure><div className="gallery-side"><figure><img src="/images/salon-experience.webp" alt="Sillas profesionales del salón" loading="lazy" /><figcaption>02 <span>El espacio</span></figcaption></figure><div className="gallery-quote"><span>“</span><p>El mejor estilo es el que te hace sentir bien.</p><small>UN MOMENTO SOLO PARA TI</small></div></div></div>
+      <div className="gallery-grid"><figure className="gallery-large"><img src="/peluqueria-premium/images/salon-portrait.webp" alt="Retrato de una clienta en el salón" loading="lazy" /><figcaption>01 <span>La experiencia</span></figcaption></figure><div className="gallery-side"><figure><img src="/peluqueria-premium/images/salon-experience.webp" alt="Sillas profesionales del salón" loading="lazy" /><figcaption>02 <span>El espacio</span></figcaption></figure><div className="gallery-quote"><span>“</span><p>El mejor estilo es el que te hace sentir bien.</p><small>UN MOMENTO SOLO PARA TI</small></div></div></div>
     </div></section>
 
     <section className="booking section" id="reserva" aria-labelledby="booking-title"><div className="wrap booking-grid">
